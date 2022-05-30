@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-template-js",
+    "path": "/posts/misc",
+    "result": {"pageContext":{"currentCategory":"misc","categories":["All","기타","misc","블로그","featured"],"edges":[{"node":{"id":"c6a9d10a-9969-5c01-bc8c-5a93c985aeb8","excerpt":"","fields":{"slug":"/start/"},"frontmatter":{"categories":"기타 misc","title":"새 블로그 시작","date":"May 30, 2022"}},"next":{"fields":{"slug":"/gatsby-github-blog/"}},"previous":null}]}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
