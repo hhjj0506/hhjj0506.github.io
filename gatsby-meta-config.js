@@ -3,7 +3,7 @@ module.exports = {
   description: `이것저것 다 하는 블로그`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://hhjj0506.github.io/`,
-  ogImage: `/profile.png`, // Path to your in the 'static' folder
+  ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
       repo: `hhjj0506/hhjj0506.github.io`,
@@ -15,7 +15,7 @@ module.exports = {
     bio: {
       role: `개발자`,
       description: ['새로운 것을 좋아하는', '집에 있기 좋아하는', '운동을 좋아하는'],
-      thumbnail: 'sample.png', // Path to the image in the 'asset' folder
+      thumbnail: 'profile.png', // Path to the image in the 'asset' folder
     },
     social: {
       github: `https://github.com/hhjj0506`, // `https://github.com/zoomKoding`,
