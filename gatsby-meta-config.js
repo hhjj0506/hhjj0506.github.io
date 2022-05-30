@@ -1,26 +1,26 @@
 module.exports = {
-  title: `zoomkoding.com`,
-  description: `줌코딩의 개발일기`,
+  title: `hhjj0506`,
+  description: ``,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://www.zoomkoding.com`,
-  ogImage: `/og-image.png`, // Path to your in the 'static' folder
+  siteUrl: `https://hhjj0506.github.io/`,
+  ogImage: `/profile.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: `hhjj0506/hhjj0506.github.io`,
     },
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `정진혁`,
+    name: `김형진`,
     bio: {
       role: `개발자`,
-      description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      description: ['새로운 것을 좋아하는', '집에 있기 좋아하는', '운동을 좋아하는'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
-      github: ``, // `https://github.com/zoomKoding`,
+      github: `https://github.com/hhjj0506`, // `https://github.com/zoomKoding`,
       linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
-      email: ``, // `zoomkoding@gmail.com`,
+      email: `hhjj0506@gmail.com`, // `zoomkoding@gmail.com`,
     },
   },
 
@@ -43,12 +43,24 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2021.02 ~',
-        activity: '개인 블로그 개발 및 운영',
+        date: '2021.06 ~ 08',
+        activity: '같이배달 앱 개발',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
+          github: 'https://github.com/marunemo/Hanchelin_Guide',
+        },
+      },
+      {
+        date: '2021.12 ~ 2022.02',
+        activity: '대안학교 앱 개발',
+        links: {
+          github: 'https://github.com/Hayun218/CRA',
+        },
+      },
+      {
+        date: '2022.06 ~ ',
+        activity: '실내 스마트팜 관리를 위한 드론의 3차원 위치 제어 기술 개발',
+        links: {
+          github: '',
         },
       },
     ],
@@ -72,15 +84,31 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        title: '개발 블로그 테마 개발',
+        title: '같이배달 앱 개발',
         description:
-          '개발 블로그를 운영하는 기간이 조금씩 늘어나고 점점 많은 생각과 경험이 블로그에 쌓아가면서 제 이야기를 담고 있는 블로그를 직접 만들어보고 싶게 되었습니다. 그동안 여러 개발 블로그를 보면서 좋았던 부분과 불편했던 부분들을 바탕으로 레퍼런스를 참고하여 직접 블로그 테마를 만들게 되었습니다.',
-        techStack: ['gatsby', 'react'],
-        thumbnailUrl: 'blog.png',
+          '학교에서 배달음식을 시킬 때 학생들에게 배달비가 부담되는 문제가 있고, 같이 배달 시킬 사람을 찾는 방법이 제대로 활성화 되어있지 않아 학생들의 편의를 위해 같이 배달 시킬 사람을 찾는 앱을 개발하게 되었습니다. 개발 후 출전한 교내 대회에서 스마트 애플리케이션 공모전 부문 우수상을 수상했습니다.',
+        techStack: ['react-native', 'firebase'],
+        thumbnailUrl: 'hanchelin.png',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
+          github: 'https://github.com/marunemo/Hanchelin_Guide',
+        },
+      },
+      {
+        title: '대안학교 앱 개발',
+        description: '교내 전산 동아리에서 진행하게 된 신입 프로젝트입니다. 대안학교에서 교직원과 학부모, 학생들을 모두 이어줄 수 있는 플랫폼이 필요하다고 생각이 되어 개발을 진행하게 됐습니다.',
+        techStack: ['flutter', 'firebase'],
+        thumbnailUrl: 'https://github.com/Hayun218/CRA',
+        links: {
+          github: '',
+        },
+      },
+      {
+        title: '실내 스마트팜 관리를 위한 드론의 3차원 위치 제어 기술 개발',
+        description: '여름방학부터 산업체와 같이 진행하게 되는 프로젝트입니다.',
+        techStack: ['ros', 'linux', 'c++', 'python'],
+        thumbnailUrl: '',
+        links: {
+          github: '',
         },
       },
     ],
