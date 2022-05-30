@@ -1,6 +1,6 @@
 module.exports = {
   title: `hhjj0506`,
-  description: ``,
+  description: `이것저것 다 하는 블로그`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://hhjj0506.github.io/`,
   ogImage: `/profile.png`, // Path to your in the 'static' folder
@@ -96,9 +96,9 @@ module.exports = {
         title: '대안학교 앱 개발',
         description: '교내 전산 동아리에서 진행하게 된 신입 프로젝트입니다. 대안학교에서 교직원과 학부모, 학생들을 모두 이어줄 수 있는 플랫폼이 필요하다고 생각이 되어 개발을 진행하게 됐습니다.',
         techStack: ['flutter', 'firebase'],
-        thumbnailUrl: 'https://github.com/Hayun218/CRA',
+        thumbnailUrl: '',
         links: {
-          github: '',
+          github: 'https://github.com/Hayun218/CRA',
         },
       },
       {
