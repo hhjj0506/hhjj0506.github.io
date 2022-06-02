@@ -3,7 +3,7 @@ module.exports = {
   description: `이것저것 다 하는 블로그`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://hhjj0506.github.io/`,
-  ogImage: `/og-image.png`, // Path to your in the 'static' folder
+  ogImage: `/profile.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
       repo: `hhjj0506/hhjj0506.github.io`,
