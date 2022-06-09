@@ -63,6 +63,13 @@ module.exports = {
           github: '',
         },
       },
+      {
+        date: '2022.06 ~ ',
+        activity: '개인 프로젝트 개발',
+        links: {
+          github: '',
+        },
+      },
     ],
 
     projects: [
@@ -105,6 +112,15 @@ module.exports = {
         title: '실내 스마트팜 관리를 위한 드론의 3차원 위치 제어 기술 개발',
         description: '여름방학부터 산업체와 같이 진행하게 되는 프로젝트입니다.',
         techStack: ['ros', 'linux', 'c++', 'python'],
+        thumbnailUrl: '',
+        links: {
+          github: '',
+        },
+      },
+      {
+        title: '개인 프로젝트 개발',
+        description: '여름방학부터 진행하게 될 개인 프로젝트입니다.',
+        techStack: ['react', 'mysql', 'express'],
         thumbnailUrl: '',
         links: {
           github: '',
