@@ -4,7 +4,7 @@ title: 22 여름방학 계획
 date: '2022-06-09 23:00:00'
 author: 김형진
 tags: blog todo
-categories: 기타 featured
+categories: 기타
 ---
 
 ## 계획은 잘 세우는 나
