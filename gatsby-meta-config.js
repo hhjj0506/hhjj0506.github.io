@@ -67,7 +67,7 @@ module.exports = {
         date: '2022.06 ~ ',
         activity: '강한한동 개발',
         links: {
-          github: 'https://github.com/hhjj0506/handong-sbd',
+          github: '',
         },
       },
     ],
@@ -111,7 +111,7 @@ module.exports = {
       {
         title: '실내 스마트팜 관리를 위한 드론의 3차원 위치 제어 기술 개발',
         description: '여름방학부터 산업체와 같이 진행하게 되는 프로젝트입니다.',
-        techStack: ['ros', 'linux', 'c++', 'python'],
+        techStack: ['ROS2', 'linux', 'c++', 'python', 'PX4'],
         thumbnailUrl: '',
         links: {
           github: '',
@@ -120,10 +120,10 @@ module.exports = {
       {
         title: '강한한동 개발',
         description: '여름방학에 진행하고 있는 개인 프로젝트입니다. 학교 내 헬스인들의 소통의 장이 되었으면 하는 마음으로 만드는 중입니다.',
-        techStack: ['react', 'firebase'],
+        techStack: ['SpringBoot', 'AWS'],
         thumbnailUrl: '',
         links: {
-          github: 'https://github.com/hhjj0506/handong-sbd',
+          github: '',
         },
       },
     ],
