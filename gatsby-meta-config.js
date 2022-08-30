@@ -64,7 +64,7 @@ module.exports = {
         },
       },
       {
-        date: '2022.06 ~ ',
+        date: '2022.09 ~ ',
         activity: '강한한동 개발',
         links: {
           github: '',
@@ -120,7 +120,7 @@ module.exports = {
       {
         title: '강한한동 개발',
         description: '여름방학에 진행하고 있는 개인 프로젝트입니다. 학교 내 헬스인들의 소통의 장이 되었으면 하는 마음으로 만드는 중입니다.',
-        techStack: ['SpringBoot', 'AWS'],
+        techStack: ['SpringBoot', 'AWS', 'MySQL'],
         thumbnailUrl: '',
         links: {
           github: '',
