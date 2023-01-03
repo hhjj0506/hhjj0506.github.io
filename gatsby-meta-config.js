@@ -64,12 +64,19 @@ module.exports = {
         },
       },
       {
-        date: '2022.09 ~ ',
+        date: '2022.12 ~ ',
         activity: '강한한동 개발',
         links: {
           github: '',
         },
       },
+      {
+        date: '2023.01 ~ ',
+        activity: 'I-Taxi 백엔드 개발',
+        links: {
+          github: 'https://github.com/I-Taxi',
+        }
+      }
     ],
 
     projects: [
@@ -119,11 +126,20 @@ module.exports = {
       },
       {
         title: '강한한동 개발',
-        description: '여름방학에 진행하고 있는 개인 프로젝트입니다. 학교 내 헬스인들의 소통의 장이 되었으면 하는 마음으로 만드는 중입니다.',
-        techStack: ['SpringBoot', 'AWS', 'MySQL'],
+        description: '방학에 진행하고 있는 개인 프로젝트입니다. 학교 내 헬스인들의 소통의 장이 되었으면 하는 마음으로 만드는 중입니다.',
+        techStack: ['SpringBoot', 'JPA', 'MySQL'],
         thumbnailUrl: '',
         links: {
           github: '',
+        },
+      },
+      {
+        title: 'I-Taxi 백엔드 개발',
+        description: '전산 동아리 CRA에서 개발한 학생들을 위한 택시, 카풀 보조 서비스인 I-Taxi 앱의 백엔드 개발을 맡아 진행하고 있습니다.',
+        techStack: ['SpringBoot', 'JPA', 'MySQL'],
+        thumbnailUrl: '',
+        links: {
+          github: 'https://github.com/I-Taxi',
         },
       },
     ],
